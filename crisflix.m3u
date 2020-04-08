@@ -1,12 +1,12 @@
 #EXTM3U						
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers						
-http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/303						
+http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/303.ts						
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech						
-http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/304						
+http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/304.ts						
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon						
-http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/305						
+http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/305.ts						
 #EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson						
-http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/307						
+http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/307.ts						
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville						
 http://iptvactivador.online:25461/live/ACTULIZACION2/ACTULIZACION2/308						
 #EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park						
