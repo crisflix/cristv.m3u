@@ -12,7 +12,7 @@ https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w194769
 #EXTINF:0,Cachipum TV
 http://23.236.180.26/11580409776/live/playlist.m3u8
 #EXTINF:0,Acs Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:0,Canal M
 #EXTGRP:unsorted
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
