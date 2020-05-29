@@ -4,15 +4,15 @@ https://cdnhd.iblups.com/hls/pXRURKqQyG.m3u8
 #EXTINF:0,Teleandina
 https://cdnh8.iblups.com/hls/nYpuHInbec.m3u8
 #EXTINF:0,Oromar tv
-http://190.52.205.147:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:0,Zaracay tv
-https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/chunklist_w1652080090_b2108000_sleng.m3u8
-#EXTINF:0,RTU
-https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w321457622_b2108000_sleng.m3u8
-#EXTINF:0,Cachipum TV
 http://190.52.205.146:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:0,Zaracay tv
+https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+#EXTINF:0,RTU
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w354681841_b2108000_sleng.m3u8
+#EXTINF:0,Cachipum TV
+https://23.236.180.26/11580409776/live/playlist.m3u8ñ
 #EXTINF:0,Acs Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:0,Canal M
 #EXTGRP:unsorted
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
