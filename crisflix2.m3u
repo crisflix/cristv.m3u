@@ -10,7 +10,7 @@ https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/chunklist
 #EXTINF:0,RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w321457622_b2108000_sleng.m3u8
 #EXTINF:0,Cachipum TV
-http://23.236.180.26/11580409776/live/playlist.m3u8
+http://190.52.205.146:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:0,Acs Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:0,Canal M
