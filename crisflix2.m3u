@@ -1,16 +1,17 @@
 #EXTM3U
+
+#EXTINF:0,Zaracay tv
+https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 #EXTINF:0,Teve San Juan
 https://cdnhd.iblups.com/hls/pXRURKqQyG.m3u8
 #EXTINF:0,Teleandina
 https://cdnh8.iblups.com/hls/nYpuHInbec.m3u8
 #EXTINF:0,Oromar tv
-http://190.52.205.146:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:0,Zaracay tv
-https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+http://190.52.205.146/hls/oromartv_hi/index.m3u8
 #EXTINF:0,RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w354681841_b2108000_sleng.m3u8
 #EXTINF:0,Cachipum TV
-http://23.236.180.26/11580409776/live/chunklist_w193149635.m3u8
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 #EXTINF:0,Acs Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:0,Canal M
