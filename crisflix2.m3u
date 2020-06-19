@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:0,Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:0,TC Television
+https://5d4837686f698.streamlock.net:443/tctelevision/tctelevision/playlist.m3u8
 #EXTINF:0,Zaracay tv
 https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 #EXTINF:0,Teve San Juan
@@ -107,9 +112,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:0,Galaxia
 #EXTGRP:unsorted
 http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
-#EXTINF:0,Teleamazonas
-#EXTGRP:unsorted
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:0,RTS HD
 #EXTGRP:unsorted
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
