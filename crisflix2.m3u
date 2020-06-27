@@ -83,7 +83,7 @@ http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTkzMzY2NzE1LCJzZXNzaW9uIjoiMjAwLjI1LjQ0LjExMSIsIndoaXRlbGlzdCI6WyIyMDAuMjUuNDQuMTExIl19LCJzaWduYXR1cmUiOiJlOTMzYTE3OGVmN2JlYmE0MDQ3MTE0ODgzMDExMDEwMjUxYjQyNTAyIn0=
 #EXTINF:0,Panamericana TV
 #EXTGRP:unsorted
 https://cdnhd.iblups.com/hls/ptv2.m3u8
