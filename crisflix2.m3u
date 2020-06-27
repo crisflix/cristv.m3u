@@ -21,12 +21,6 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:0,Canal M
 #EXTGRP:unsorted
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-#EXTINF:0,Super 5
-#EXTGRP:unsorted
-http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
-#EXTINF:0,Pequeradio Tv
-#EXTGRP:unsorted
-http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:0,Fuego TV
 #EXTGRP:unsorted
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
@@ -42,63 +36,12 @@ http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:0,Wow TV
 #EXTGRP:unsorted
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0,Life TV
-#EXTGRP:unsorted
-http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:0,Redbull TV HD www.tecnowill.xyz
 #EXTGRP:unsorted
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Mega HD www.tecnowill.xyz
-#EXTGRP:unsorted
-https://livestartover.atresmedia.com/mega/master.m3u8
-#EXTINF:0,Nova HD www.tecnowill.xyz
-#EXTGRP:unsorted
-https://livestartover.atresmedia.com/nova/master.m3u8
-#EXTINF:0,Neox HD www.tecnowill.xyz
-#EXTGRP:unsorted
-https://livestartover.atresmedia.com/neox/master.m3u8
-#EXTINF:0,laSexta HD www.tecnowill.xyz
-#EXTGRP:unsorted
-https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:0,Divinity
-#EXTGRP:unsorted
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
-#EXTINF:0,Paramont Network
-#EXTGRP:unsorted
-http://paramount.live.flumotion.com/live/playlist.m3u8
-#EXTINF:0,FDF
-#EXTGRP:unsorted
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:0,Telecinco
-#EXTGRP:unsorted
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:0,Cuatro
-#EXTGRP:unsorted
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:0,Be Mad
-#EXTGRP:unsorted
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:0,Eenergy
-#EXTGRP:unsorted
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:0,Boing
-#EXTGRP:unsorted
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:unsorted
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:unsorted
-http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:0,Universal Channel
-#EXTGRP:unsorted
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:0,Gamavision
 #EXTGRP:unsorted
 http://173.212.247.99/hls/tvec1.m3u8
-#EXTINF:0,HBO 2
-#EXTGRP:unsorted
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0,Milenio
 #EXTGRP:unsorted
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -108,42 +51,12 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:0,Chicos IPE
 #EXTGRP:unsorted
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:0,Galaxia
-#EXTGRP:unsorted
-http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
-#EXTINF:0,RTS HD
-#EXTGRP:unsorted
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:0,TVC HD
-#EXTGRP:unsorted
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
-#EXTINF:0,Ecuavisa
-#EXTGRP:unsorted
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
 #EXTINF:0,Ecuavisa Sierra
 #EXTGRP:unsorted
 http://173.212.247.99/hls/tvec2.m3u8
-#EXTINF:0,Oromar
-#EXTGRP:unsorted
-http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:0,TC HD Costa
-#EXTGRP:unsorted
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-#EXTINF:0,Canela TV
-#EXTGRP:unsorted
-http://inliveserver.com:1935/8074/8074/playlist.m3u8
-#EXTINF:0,Ecuador TV
-#EXTGRP:unsorted
-https://api.new.livestream.com/accounts/27236040/events/8177619/live.m3u8
 #EXTINF:0,Telesistema 11
 #EXTGRP:unsorted
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist.m3u8
-#EXTINF:0,TSI
-#EXTGRP:unsorted
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_1000_av-p.m3u8
-#EXTINF:0,Red +
-#EXTGRP:unsorted
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(03)/index.m3u8
 #EXTINF:0,TVN
 #EXTGRP:unsorted
 https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/playlist.m3u8
@@ -152,7 +65,7 @@ https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/playlist.m3u8
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:0,Orbit TV
 #EXTGRP:unsorted
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:0,Extrema
 #EXTGRP:unsorted
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
